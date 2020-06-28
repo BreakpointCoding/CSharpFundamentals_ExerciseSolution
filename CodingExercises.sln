@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30002.166
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodingExercisePhaseTwo", "ConsoleApp2\CodingExercisePhaseTwo.csproj", "{B2F5321E-767B-4B7D-A3B9-1E343568A5F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodingExercisePhaseTwo", "CodingExercisePhaseTwo\CodingExercisePhaseTwo.csproj", "{B2F5321E-767B-4B7D-A3B9-1E343568A5F9}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodingExercisePhaseThree", "CodingChallengePhaseThree\CodingExercisePhaseThree.csproj", "{F5657B5A-89C2-46E9-83E2-9DD8DB38833D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodingExercisePhaseThree", "CodingExercisePhaseThree\CodingExercisePhaseThree.csproj", "{F5657B5A-89C2-46E9-83E2-9DD8DB38833D}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodingExercisePhaseFour", "CodingChallengePhaseFour\CodingExercisePhaseFour.csproj", "{D488B68B-ED00-4FE3-BBAB-EC664D79215A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodingExercisePhaseFour", "CodingExercisePhaseFour\CodingExercisePhaseFour.csproj", "{D488B68B-ED00-4FE3-BBAB-EC664D79215A}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodingExercisePhaseFive", "CodingChallengePhaseFive\CodingExercisePhaseFive.csproj", "{107995ED-CBA8-4041-B028-908F05539D59}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodingExercisePhaseFive", "CodingExercisePhaseFive\CodingExercisePhaseFive.csproj", "{107995ED-CBA8-4041-B028-908F05539D59}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
